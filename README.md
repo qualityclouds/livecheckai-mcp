@@ -1,4 +1,4 @@
-<h1 align="center">Quality Clouds LivecheckAI (via MCP)</h1>
+<h1 align="center">Quality Clouds LivecheckAI (via MCP) for Salesforce</h1>
 <p align="center"><strong>Real-time code validation and governance for AI-assisted development using the Model Context Protocol (MCP).</strong></p>
 
 
