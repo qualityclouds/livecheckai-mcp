@@ -1,8 +1,16 @@
-<h1 align="center">Quality Clouds LivecheckAI (via MCP)
+<h1 align="center">Quality Clouds LivecheckAI (via MCP)</h1>
+<p align="center"><strong>Real-time code validation and governance for AI-assisted development using the Model Context Protocol (MCP).</strong></p>
 
-**Real-time code validation and governance for AI-assisted development using the Model Context Protocol (MCP).**
 
 This repository provides the MCP integration used by **Quality Clouds LivecheckAI**, enabling VS Code and other MCP-compatible to validate AI-generated Apex, LWC, and metadata code against enterprise development standards, Salesforce platform limits, and security best practices — *right from the first line of code*.
+
+---
+
+<div align="center">
+
+### ▶️ [Watch the LivecheckAI MCP Demo Video](https://youtu.be/nyhEw1g90e0)
+
+</div>
 
 ---
 
@@ -69,11 +77,14 @@ Runs natively in VS Code without switching tools or waiting for CI processes.
 
 ## ⚙️ How It Works
 
-1. The developer writes or triggers AI-generated Salesforce code.
-2. LivecheckAI sends it to the **Quality Clouds MCP server** for validation.
-3. The MCP engine evaluates the code using QC’s Salesforce ruleset.
-4. VS Code displays inline results, warnings, and autofixes.
-5. Only compliant, secure code continues through the development lifecycle.
+| Step | What happens |
+|------|--------------|
+| 1️⃣ | The developer writes or triggers AI-generated Salesforce code in VS Code. |
+| 2️⃣ | LivecheckAI sends the code to the **Quality Clouds MCP server** for validation. |
+| 3️⃣ | The **MCP engine** evaluates the code using QC’s Salesforce ruleset (Apex, LWC, metadata, org rules…). |
+| 4️⃣ | **VS Code** displays inline results, warnings, and autofixes in real time. |
+| 5️⃣ | Only **compliant, secure code** continues through the development lifecycle. |
+
 
 ---
 
