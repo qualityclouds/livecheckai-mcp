@@ -177,7 +177,7 @@ If you experience issues:
 
 ## 🏁 Summary
 
-LivecheckAI ensures that AI-assisted development remains:
+LivecheckAI ensures that AI-assisted Salesforce development remains:
 
 - **Secure**  
 - **Compliant**  
@@ -185,4 +185,6 @@ LivecheckAI ensures that AI-assisted development remains:
 - **Governance-aligned**  
 - **Platform-aware**  
 - **Production-ready from the start**
+
+---
 
