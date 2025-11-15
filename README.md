@@ -1,4 +1,4 @@
-# 🌟 Quality Clouds LivecheckAI (via MCP)
+# Quality Clouds LivecheckAI (via MCP)
 
 **Real-time code validation and governance for AI-assisted development using the Model Context Protocol (MCP).**
 
